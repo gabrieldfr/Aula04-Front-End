@@ -1,0 +1,16 @@
+html{
+    font-size: large;
+    background-color: black;
+}
+h1{
+    color: deeppink;
+    font-size: 4em;
+}
+    li{
+        color: deeppink;
+    }
+    p{
+        color: red;
+        border: 1px solid whitesmoke;
+    }
+    
